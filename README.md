@@ -1,1 +1,1 @@
-# com6338-2-1-Buteau-Nayllah
+# Assignment 2 - Creating a Greeting using JavaScript
